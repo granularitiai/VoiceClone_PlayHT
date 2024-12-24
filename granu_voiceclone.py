@@ -57,7 +57,7 @@ client = Client(
     user_id= f"{user_id}",
     api_key= f"{api_key}",
 )
-options = TTSOptions(voice="s3://voice-cloning-zero-shot/7c4a4981-a1c2-4c73-9d6e-1f480d57807d/original/manifest.json")
+options = TTSOptions(voice="...")
 
 
 # In[11]:
